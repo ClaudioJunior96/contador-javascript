@@ -1,7 +1,7 @@
 CONTADOR 
 Neste projeto, iremos fazer a nossa primeira integração de um código JavaScript com uma página HMTL.
 
-##DICAS##
+DICAS
 Caso você queria ir alem, aqui estão algumas dicas de coisas para tentar:
 
 1. Tente implementar os eventos usando o método addEventListener.
